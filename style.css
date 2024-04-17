@@ -7,12 +7,13 @@ body {
   width: 1200px;
   height: 626;
 
-  margin: 71px auto;
+  margin: auto;
 
   font-family: "JetBrains Mono", monospace;
 }
 
 nav {
+  padding: 71px 0px 0px 0px;
   display: flex;
   justify-content: space-between;
   margin-bottom: 101px;
